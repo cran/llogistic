@@ -1,0 +1,7 @@
+474a77f086110c7538b1c94adf8f0137 *DESCRIPTION
+ac1fe99a1265a060e5ea0dee76a5fee9 *NAMESPACE
+6346050b801cdcecc3f93804a7dd3500 *R/dllogistic.R
+d1c8eccafd2356b72a7136eb6d0b38fd *R/pllogistic.R
+e9bf212effb89f2e70c3a9670399d9c7 *R/qllogistic.R
+38a2e91f5f3c07eea49273010f041f03 *R/rllogistic.R
+643a892e9896d9964778a797e9628eda *man/llogistic.Rd
