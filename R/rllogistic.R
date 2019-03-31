@@ -1,8 +1,8 @@
 #' @name llogistic
 #' @examples rllogistic(10, 0.5, 2)
 #' @export
-rllogistic <- function(n, m, b) {
-  tta = c(m, b)
+rllogistic <- function(n, m, phi) {
+  tta = c(m, phi)
   Q = function(tta, u) {
     mu = tta[1]
     s = tta[2]

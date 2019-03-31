@@ -1,7 +1,7 @@
-474a77f086110c7538b1c94adf8f0137 *DESCRIPTION
+4a95580533a5b182039369b1c88960fd *DESCRIPTION
 ac1fe99a1265a060e5ea0dee76a5fee9 *NAMESPACE
-6346050b801cdcecc3f93804a7dd3500 *R/dllogistic.R
-d1c8eccafd2356b72a7136eb6d0b38fd *R/pllogistic.R
-e9bf212effb89f2e70c3a9670399d9c7 *R/qllogistic.R
-38a2e91f5f3c07eea49273010f041f03 *R/rllogistic.R
-643a892e9896d9964778a797e9628eda *man/llogistic.Rd
+c5f32eb614abab21568c85f634b71a84 *R/dllogistic.R
+908e08748b8941b1157d3019501366ec *R/pllogistic.R
+bd37149c8e83d9bb8fc5ce7fe348ba75 *R/qllogistic.R
+f792e997e3c7e20bad7688d56e9569ff *R/rllogistic.R
+4c0277bb447afe7420a281192e182e22 *man/llogistic.Rd
